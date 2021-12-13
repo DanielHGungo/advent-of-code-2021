@@ -1,0 +1,21 @@
+can take k: 0
+can take k: 1
+can take k: 2
+cant take k: 3
+cant take k: 4
+classesTaking: 1,2,3
+classesTaking: 1,2,3
+classesTaking: 1,2,3
+can take k: 3
+cant take k: 4
+classesTaking: 4
+can take k: 4
+classesTaking: 5
+[ [], [], [], [ 3 ], [ 1, 2, 3, 4 ] ]
+[ 1, 2, 3, 4, 5 ]
+time : 20
+
+
+9
+[[2,7],[2,6],[3,6],[4,6],[7,6],[2,1],[3,1],[4,1],[6,1],[7,1],[3,8],[5,8],[7,8],[1,9],[2,9],[6,9],[7,9]]
+[9,5,9,5,8,7,7,8,4]
